@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-npx skills add shunforever4/wechat-reading-skills -g
+npx skills add shunforever4/skills-introduction-to-github -g
 ```
 
 ## 配置
